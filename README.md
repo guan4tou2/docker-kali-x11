@@ -1,6 +1,6 @@
 # docker-kali-x11
 
-Use `docker build -t mykali . --no-chace` build image.
+Use `docker build -t mykali . --no-cache` build image.
 
 Use `docker run -it -p 12345:22 mykali` running container,port 12345 can defined by self.
 
