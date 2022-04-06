@@ -1,5 +1,7 @@
 # docker-kali-x11
 
+`chmod 755 start.sh`
+
 Use `docker build -t mykali . --no-cache` build image.
 
 Use `docker run -it -p 12345:22 mykali` running container,port 12345 can defined by self.
